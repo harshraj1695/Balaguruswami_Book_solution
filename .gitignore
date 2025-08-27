@@ -1,5 +1,16 @@
+# Ignore compiled binaries
 *.out
 *.exe
-.vscode
 
-*.
+# Ignore object files
+*.o
+
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore any files without extension (optional)
+*
+
+
+# for txt files
+*.txt
